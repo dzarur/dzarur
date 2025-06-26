@@ -1,5 +1,5 @@
 ## 👋 Hi, I'm Daniel!
-🎓 Senior at Brandies University, B.S. in Computer Science, Minors in Physics and Environmental Studies \n
+🎓 Senior at Brandies University, B.S. in Computer Science, Minors in Physics and Environmental Studies
 🔭 Aspiring Data Scientist and Machine Learning and Sustainability Enthusiast
 
 ## 🛠 Tech Stack:
