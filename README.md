@@ -1,5 +1,6 @@
 ## 👋 Hi, I'm Daniel!
 🎓 Senior at Brandies University, B.S. in Computer Science, Minors in Physics and Environmental Studies
+
 🔭 Aspiring Quant and Machine Learning Enthusiast
 
 ## 🛠 Tech Stack:
